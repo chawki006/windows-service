@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication2.cpp
+c:\users\le164wd\source\repos\consoleapplication3\consoleapplication2\consoleapplication2.cpp(34): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication2.vcxproj -> C:\Users\LE164WD\source\repos\ConsoleApplication3\x64\Release\svccontrol.exe
